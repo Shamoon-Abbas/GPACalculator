@@ -29,14 +29,14 @@ A clean and efficient Flutter application designed to calculate GPA based on use
 ## 📸 Screenshots
 
 ### 📥 Input & Calculation Flow
-| 🖼️ Splash Screen | 🔢 Enter Course Count | 📝 Enter Course Details |
-|-----------------|------------------------|--------------------------|
-| ![1.png](../../project%20recordings/GPACalculator/1.png) | ![2.png](../../project%20recordings/GPACalculator/2.png) | ![3.png](../../project%20recordings/GPACalculator/3.png) |
+| 🖼️ Splash Screen       | 🔢 Enter Course Count  | 📝 Enter Course Details  |
+|-------------------------|------------------------|--------------------------|
+| ![Splash Screen](1.png) | ![Course Count](2.png) | ![Course Details](3.png) |
 
 ### 📊 Result & Sharing
-| 🎓 GPA Result | 📤 Share as PNG |
-|---------------|-----------------|
-| ![4.png](../../project%20recordings/GPACalculator/4.png) | ![5.png](../../project%20recordings/GPACalculator/5.png) |
+| 🎓 GPA Result        | 📤 Share as PNG          |
+|----------------------|--------------------------|
+| ![GPA Result](4.png) | ![Share .png pic](5.png) |
 
 
 ---
