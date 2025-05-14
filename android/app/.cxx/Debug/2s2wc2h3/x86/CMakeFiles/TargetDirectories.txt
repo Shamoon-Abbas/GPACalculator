@@ -1,0 +1,2 @@
+D:/Aaaaaaaa/StudioProjects/gpa_calculator/android/app/.cxx/Debug/2s2wc2h3/x86/CMakeFiles/edit_cache.dir
+D:/Aaaaaaaa/StudioProjects/gpa_calculator/android/app/.cxx/Debug/2s2wc2h3/x86/CMakeFiles/rebuild_cache.dir
